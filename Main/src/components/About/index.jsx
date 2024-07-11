@@ -6,10 +6,7 @@ function About() {
           <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
           </div>
           <p>
-          Replace with some witty banter about yours truly!
-          </p>
-          <p>
-          More witty banter goes here!
+          I'm a George Washington University Full Stack Web Developer student.  My background is a Java back-end developer.  My goal is to add these skills and to find an entry level position that will allow me to showcase my new learned skills.
           </p>
         </div>
       </section>
