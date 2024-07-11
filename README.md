@@ -54,7 +54,18 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 
 ## Mock-Up
+### Homepage
+![Homepage](Main/src/assets/images/home.jpg)
 
+### Portfolio
+![Portfolio](Main/src/assets/images/portfolio.jpg)
+
+### Contact
+![Contact](Main/src/assets/images/contact.jpg)
+
+### Resume
+![Resume](Main/src/assets/images/resume.jpg)
 
 
 ## Deployment
+[MyReactPortfolio](https://frabjous-semifreddo-b727a1.netlify.app/)
