@@ -7,7 +7,7 @@ function Footer() {
       },
       {
         name: "fab fa-linkedin",
-        link: "https://www.linkedin.com/freddie-hubert"
+        link: "https://www.linkedin.com/in/freddie-hubert"
       }
     ]
   

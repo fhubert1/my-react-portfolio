@@ -68,4 +68,4 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 
 ## Deployment
-[MyReactPortfolio](https://frabjous-semifreddo-b727a1.netlify.app/)
+[MyReactPortfolio](https://drive.google.com/file/d/1hLsKYyaXtPnb-sdKfHl6DX3RhjD31_Ec/view)
